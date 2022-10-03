@@ -6,4 +6,5 @@ int main()
 		printf("%c\n", y);
 		y++;
 	}
+	return 0;
 }
